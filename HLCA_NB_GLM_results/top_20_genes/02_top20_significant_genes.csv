@@ -1,0 +1,2 @@
+"Gene","logFC","FDR","PValue","Description","N_Pathways","KEGG_Pathways","N_GO_Terms","GO_Terms"
+"ENSG00000276850",-3.00116636388579,0.00912135148152909,4.80728970250294e-07,NA,0,"No KEGG pathway",0,"No GO term"

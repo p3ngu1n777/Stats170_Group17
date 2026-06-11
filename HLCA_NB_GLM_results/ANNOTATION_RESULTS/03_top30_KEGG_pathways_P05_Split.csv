@@ -1,0 +1,61 @@
+"KEGG_Pathways","Direction","n","total"
+"Pathways of neurodegeneration - multiple diseases","Down",12,26
+"Pathways of neurodegeneration - multiple diseases","Up",14,26
+"Alzheimer disease","Down",8,22
+"Alzheimer disease","Up",14,22
+"Human papillomavirus infection","Down",7,17
+"Lipid and atherosclerosis","Down",9,17
+"Human papillomavirus infection","Up",10,17
+"Lipid and atherosclerosis","Up",8,17
+"Efferocytosis","Down",12,16
+"Human T-cell leukemia virus 1 infection","Down",4,16
+"Efferocytosis","Up",4,16
+"Human T-cell leukemia virus 1 infection","Up",12,16
+"Diabetic cardiomyopathy","Down",8,15
+"PI3K-Akt signaling pathway","Down",6,15
+"Diabetic cardiomyopathy","Up",7,15
+"PI3K-Akt signaling pathway","Up",9,15
+"AMPK signaling pathway","Down",5,13
+"Alcoholic liver disease","Down",6,13
+"Amyotrophic lateral sclerosis","Down",6,13
+"Apoptosis","Down",2,13
+"Huntington disease","Down",2,13
+"cAMP signaling pathway","Down",3,13
+"AMPK signaling pathway","Up",8,13
+"Alcoholic liver disease","Up",7,13
+"Amyotrophic lateral sclerosis","Up",7,13
+"Apoptosis","Up",11,13
+"Huntington disease","Up",11,13
+"cAMP signaling pathway","Up",10,13
+"AGE-RAGE signaling pathway in diabetic complications","Down",7,12
+"Autophagy - animal","Down",3,12
+"Epstein-Barr virus infection","Down",4,12
+"IgSF CAM signaling","Down",4,12
+"Shigellosis","Down",3,12
+"T cell receptor signaling pathway","Down",7,12
+"AGE-RAGE signaling pathway in diabetic complications","Up",5,12
+"Autophagy - animal","Up",9,12
+"Epstein-Barr virus infection","Up",8,12
+"IgSF CAM signaling","Up",8,12
+"Shigellosis","Up",9,12
+"T cell receptor signaling pathway","Up",5,12
+"Adrenergic signaling in cardiomyocytes","Down",8,11
+"Cushing syndrome","Down",2,11
+"MAPK signaling pathway","Down",5,11
+"Adrenergic signaling in cardiomyocytes","Up",3,11
+"Cushing syndrome","Up",9,11
+"MAPK signaling pathway","Up",6,11
+"Cytoskeleton in muscle cells","Down",7,10
+"Hepatitis B","Down",1,10
+"Herpes simplex virus 1 infection","Down",3,10
+"Salmonella infection","Down",1,10
+"TNF signaling pathway","Down",4,10
+"Thermogenesis","Down",2,10
+"Cytoskeleton in muscle cells","Up",3,10
+"Hepatitis B","Up",9,10
+"Herpes simplex virus 1 infection","Up",7,10
+"Salmonella infection","Up",9,10
+"TNF signaling pathway","Up",6,10
+"Thermogenesis","Up",8,10
+"ATP-dependent chromatin remodeling","Down",1,9
+"ATP-dependent chromatin remodeling","Up",8,9

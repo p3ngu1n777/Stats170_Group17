@@ -1,0 +1,43 @@
+donor_id,condition,true_label,pred_prob,pred_label,correct,age
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747AN14,Healthy,0,0.0896,0,True,52.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747VUHD92,Healthy,0,0.441,0,True,55.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747NP44,Healthy,0,0.1459,0,True,7.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747muc4658,Healthy (tumor adjacent),1,0.3426,0,False,59.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747GRO-01,Healthy,0,0.2081,0,True,41.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747VUHD077,Healthy,0,0.2011,0,True,55.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747D354,Healthy,0,0.2188,0,True,33.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747Wunderink2021_subject_8,COVID-19,1,0.7276,1,True,21.1163586584531
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747284C,Healthy,0,0.7222,1,False,57.5
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747muc10380,Healthy (tumor adjacent),1,0.7335,1,True,73.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747T89,Healthy,0,0.0782,0,True,10.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747donor 1,Healthy (tumor adjacent),1,0.3439,0,False,75.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747muc9826,"End-stage lung fibrosis, unknown etiology",1,0.4534,0,False,57.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747T121,Healthy,0,0.0754,0,True,23.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747356C,Healthy,0,0.5955,1,False,42.5
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747LuT_553,Healthy (tumor adjacent),1,0.6864,1,True,55.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747VUHD67,Healthy,0,0.4804,0,True,30.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_4837479JQK55ng,Healthy (tumor adjacent),1,0.2015,0,False,45.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747VUHD69,Healthy,0,0.533,1,False,31.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747Patient_4,Healthy (tumor adjacent),1,0.3756,0,False,72.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747NP10,Healthy,0,0.234,0,True,5.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747Donor_04,Healthy,0,0.5458,1,False,57.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747THD0015,Healthy,0,0.1254,0,True,58.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747Shalek2018_subject_305,Chronic rhinitis,1,0.5319,1,True,31.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747Shalek2018_subject_299,Chronic rhinitis,1,0.6624,1,True,34.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747THD0008,Healthy,0,0.4337,0,True,53.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747A47,Healthy,0,0.4621,0,True,58.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747T120,Healthy,0,0.084,0,True,57.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747368C,Healthy,0,0.4924,0,True,57.5
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747VUHD94,Healthy,0,0.4563,0,True,62.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747lafy_donor_3,Healthy,0,0.2392,0,True,55.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747GRO-11,Healthy,0,0.4916,0,True,59.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747SHMI57ng,Healthy (tumor adjacent),1,0.5003,1,True,56.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747GRO-09,Healthy,0,0.2146,0,True,50.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747SSc_3,Systemic sclerosis-associated ILD,1,0.3534,0,False,53.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747T165,Healthy,0,0.0798,0,True,64.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747muc9832,Healthy (tumor adjacent),1,0.5587,1,True,81.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747Patient_6,Healthy (tumor adjacent),1,0.6462,1,True,67.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747NP39,Healthy,0,0.483,0,True,7.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747VUHD103,Healthy,0,0.1522,0,True,55.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747muc10381,"End-stage lung fibrosis, unknown etiology",1,0.7529,1,True,51.0
+homosapiens_None_2023_None_sikkemalisa_002_d10_1101_2022_03_10_483747VUHD106,Healthy,0,0.3091,0,True,49.0

@@ -1,0 +1,90 @@
+ann_level_1,AgeGroup,ann_level_3,n_cells
+Endothelial,Young (5-40),EC arterial,4234
+Endothelial,Young (5-40),EC capillary,21015
+Endothelial,Young (5-40),EC venous,13375
+Endothelial,Young (5-40),Lymphatic EC differentiating,306
+Endothelial,Young (5-40),Lymphatic EC mature,2983
+Endothelial,Young (5-40),Lymphatic EC proliferating,13
+Endothelial,Young (5-40),Unknown,5011
+Endothelial,Middle-aged (41-65),EC arterial,5855
+Endothelial,Middle-aged (41-65),EC capillary,22127
+Endothelial,Middle-aged (41-65),EC venous,11651
+Endothelial,Middle-aged (41-65),Lymphatic EC differentiating,515
+Endothelial,Middle-aged (41-65),Lymphatic EC mature,3808
+Endothelial,Middle-aged (41-65),Lymphatic EC proliferating,15
+Endothelial,Middle-aged (41-65),Unknown,3771
+Endothelial,Old (65+),EC arterial,1795
+Endothelial,Old (65+),EC capillary,6946
+Endothelial,Old (65+),EC venous,3092
+Endothelial,Old (65+),Lymphatic EC differentiating,79
+Endothelial,Old (65+),Lymphatic EC mature,1598
+Endothelial,Old (65+),Unknown,1999
+Epithelial,Young (5-40),AT1,9427
+Epithelial,Young (5-40),AT2,43194
+Epithelial,Young (5-40),Basal,51318
+Epithelial,Young (5-40),Multiciliated lineage,30844
+Epithelial,Young (5-40),Rare,928
+Epithelial,Young (5-40),Secretory,94197
+Epithelial,Young (5-40),Submucosal Secretory,6685
+Epithelial,Young (5-40),Unknown,9562
+Epithelial,Middle-aged (41-65),AT1,9907
+Epithelial,Middle-aged (41-65),AT2,64013
+Epithelial,Middle-aged (41-65),Basal,46659
+Epithelial,Middle-aged (41-65),Multiciliated lineage,32709
+Epithelial,Middle-aged (41-65),Rare,596
+Epithelial,Middle-aged (41-65),Secretory,41535
+Epithelial,Middle-aged (41-65),Submucosal Secretory,1967
+Epithelial,Middle-aged (41-65),Unknown,9854
+Epithelial,Old (65+),AT1,2418
+Epithelial,Old (65+),AT2,12325
+Epithelial,Old (65+),Basal,9855
+Epithelial,Old (65+),Multiciliated lineage,5239
+Epithelial,Old (65+),Rare,94
+Epithelial,Old (65+),Secretory,3264
+Epithelial,Old (65+),Submucosal Secretory,186
+Epithelial,Old (65+),Unknown,1467
+Immune,Young (5-40),B cell lineage,9268
+Immune,Young (5-40),Dendritic cells,5832
+Immune,Young (5-40),Innate lymphoid cell NK,5884
+Immune,Young (5-40),Macrophages,78889
+Immune,Young (5-40),Mast cells,3863
+Immune,Young (5-40),Monocytes,16436
+Immune,Young (5-40),None,14
+Immune,Young (5-40),T cell lineage,31477
+Immune,Young (5-40),Unknown,18972
+Immune,Middle-aged (41-65),B cell lineage,24356
+Immune,Middle-aged (41-65),Dendritic cells,11941
+Immune,Middle-aged (41-65),Innate lymphoid cell NK,17922
+Immune,Middle-aged (41-65),Macrophages,111399
+Immune,Middle-aged (41-65),Mast cells,7606
+Immune,Middle-aged (41-65),Monocytes,34981
+Immune,Middle-aged (41-65),None,41
+Immune,Middle-aged (41-65),T cell lineage,59491
+Immune,Middle-aged (41-65),Unknown,22505
+Immune,Old (65+),B cell lineage,1831
+Immune,Old (65+),Dendritic cells,2947
+Immune,Old (65+),Innate lymphoid cell NK,6049
+Immune,Old (65+),Macrophages,23301
+Immune,Old (65+),Mast cells,4872
+Immune,Old (65+),Monocytes,6800
+Immune,Old (65+),None,5
+Immune,Old (65+),T cell lineage,27962
+Immune,Old (65+),Unknown,7707
+Stroma,Young (5-40),Fibroblasts,28713
+Stroma,Young (5-40),Myofibroblasts,208
+Stroma,Young (5-40),None,505
+Stroma,Young (5-40),SM activated stress response,135
+Stroma,Young (5-40),Smooth muscle FAM83D+,375
+Stroma,Young (5-40),Unknown,3822
+Stroma,Middle-aged (41-65),Fibroblasts,27847
+Stroma,Middle-aged (41-65),Myofibroblasts,624
+Stroma,Middle-aged (41-65),None,2462
+Stroma,Middle-aged (41-65),SM activated stress response,550
+Stroma,Middle-aged (41-65),Smooth muscle FAM83D+,54
+Stroma,Middle-aged (41-65),Unknown,2824
+Stroma,Old (65+),Fibroblasts,7812
+Stroma,Old (65+),Myofibroblasts,279
+Stroma,Old (65+),None,259
+Stroma,Old (65+),SM activated stress response,185
+Stroma,Old (65+),Smooth muscle FAM83D+,61
+Stroma,Old (65+),Unknown,827

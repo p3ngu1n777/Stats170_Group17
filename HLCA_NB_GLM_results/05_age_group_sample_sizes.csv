@@ -1,0 +1,4 @@
+"AgeGroup","Number_of_Biological_Replicates","Notes"
+"Young (5-40)",894,"Stable variance"
+"Middle-aged (41-65)",1224,"Stable variance"
+"Old (65+)",240,"Lowest n = highest standard error (wider bars)"

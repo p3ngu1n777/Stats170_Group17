@@ -1,0 +1,61 @@
+"GO_Terms","Direction","n","total"
+"ncRNA processing","Down",7,34
+"ncRNA processing","Up",27,34
+"chromosome segregation","Down",6,30
+"chromosome segregation","Up",24,30
+"nucleobase-containing compound catabolic process","Down",7,29
+"nucleobase-containing compound catabolic process","Up",22,29
+"cilium organization","Down",1,28
+"cilium organization","Up",27,28
+"cellular component disassembly","Down",8,27
+"establishment of protein localization to organelle","Down",7,27
+"cellular component disassembly","Up",19,27
+"establishment of protein localization to organelle","Up",20,27
+"cilium assembly","Down",1,26
+"non-membrane-bounded organelle assembly","Down",9,26
+"positive regulation of cellular catabolic process","Down",6,26
+"regulation of DNA-binding transcription factor activity","Down",14,26
+"cilium assembly","Up",25,26
+"non-membrane-bounded organelle assembly","Up",17,26
+"positive regulation of cellular catabolic process","Up",20,26
+"regulation of DNA-binding transcription factor activity","Up",12,26
+"positive regulation of protein localization","Down",4,24
+"response to oxidative stress","Down",6,24
+"ribosome biogenesis","Down",6,24
+"positive regulation of protein localization","Up",20,24
+"response to oxidative stress","Up",18,24
+"ribosome biogenesis","Up",18,24
+"DNA replication","Down",2,23
+"RNA splicing","Down",4,23
+"adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains","Down",18,23
+"leukocyte cell-cell adhesion","Down",14,23
+"leukocyte mediated immunity","Down",19,23
+"lipid transport","Down",7,23
+"negative regulation of cell cycle","Down",6,23
+"positive regulation of DNA-binding transcription factor activity","Down",13,23
+"positive regulation of cell adhesion","Down",13,23
+"rRNA metabolic process","Down",5,23
+"DNA replication","Up",21,23
+"RNA splicing","Up",19,23
+"adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains","Up",5,23
+"leukocyte cell-cell adhesion","Up",9,23
+"leukocyte mediated immunity","Up",4,23
+"lipid transport","Up",16,23
+"negative regulation of cell cycle","Up",17,23
+"positive regulation of DNA-binding transcription factor activity","Up",10,23
+"positive regulation of cell adhesion","Up",10,23
+"rRNA metabolic process","Up",18,23
+"Wnt signaling pathway","Down",5,22
+"cell-cell signaling by wnt","Down",5,22
+"mitotic cell cycle phase transition","Down",1,22
+"positive regulation of cell activation","Down",12,22
+"positive regulation of cell development","Down",10,22
+"positive regulation of leukocyte activation","Down",12,22
+"positive regulation of proteolysis","Down",8,22
+"Wnt signaling pathway","Up",17,22
+"cell-cell signaling by wnt","Up",17,22
+"mitotic cell cycle phase transition","Up",21,22
+"positive regulation of cell activation","Up",10,22
+"positive regulation of cell development","Up",12,22
+"positive regulation of leukocyte activation","Up",10,22
+"positive regulation of proteolysis","Up",14,22

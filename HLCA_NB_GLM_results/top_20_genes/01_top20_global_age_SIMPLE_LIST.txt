@@ -1,0 +1,20 @@
+ENSG00000276850 - novel transcript
+PGGHG - Enables protein-glucosylgalactosylhydroxylysine glucosidase activity. Involved in carbohydrate metabolic process.
+THUMPD3 - Enables tRNA (guanine(6)-N2)-methyltransferase activity and tRNA (guanine(7)-N2)-methyltransferase activity. Involved in tRNA methylation.
+TBPL1 - This gene encodes a member of the TATA box-binding protein family.
+ENSG00000275234 - (Novel Transcript, Antisense To DENND1C) is an RNA Gene, and is affiliated with the lncRNA class
+IKZF4 - Ikaros family of transcription factors, which includes Eos, are expressed in lymphocytes and are implicated in the control of lymphoid development
+ENSG00000278291 - (Novel Transcript, Antisense To IL17D) is an RNA Gene, and is affiliated with the lncRNA class.
+FAM210A - Located in mitochondrion. May play a role in the structure and strength of both muscle and bone.
+SPATA6 - Predicted to enable myosin light chain binding activity. Predicted to be involved in motile cilium assembly and spermatogenesis. Predicted to be located in extracellular region and motile cilium. Predicted to be active in sperm head-tail coupling apparatus.
+ANKRD37 - Located in cytosol; mitochondrion; and nucleoplasm.
+TRIM52 - Enables transcription coactivator activity and ubiquitin protein ligase activity. Involved in several processes, including positive regulation of NF-kappaB transcription factor activity; positive regulation of canonical NF-kappaB signal transduction; and protein autoubiquitination. Located in cytosol and nucleus. 
+PRKAA2 - The protein encoded by this gene is a catalytic subunit of the AMP-activated protein kinase (AMPK). AMPK is a heterotrimer consisting of an alpha catalytic subunit, and non-catalytic beta and gamma subunits. AMPK is an important energy-sensing enzyme that monitors cellular energy status
+DPP4 - The DPP4 gene encodes dipeptidyl peptidase 4, which is identical to adenosine deaminase complexing protein-2, and to the T-cell activation antigen CD26. It is an intrinsic type II transmembrane glycoprotein and a serine exopeptidase that cleaves X-proline dipeptides from the N-terminus of polypeptides.
+CCDC122 - This gene encodes a protein that contains a coiled-coil domain. Naturally occurring mutations in this gene are associated with leprosy.
+SLFN13 - Enables RNA endonuclease activity. Involved in rRNA catabolic process and tRNA decay. Located in cytoplasm. 
+CCDC9B - Enables RNA binding activity.
+ENSG00000273748 -  is a Protein Coding gene. An important paralog of this gene is FRG1
+NOP2 - Enables rRNA (cytosine-C5-)-methyltransferase activity. Involved in positive regulation of cell population proliferation; regulation of signal transduction by p53 class mediator; and ribosome biogenesis. Located in nucleolus.
+CSPG5 - The protein encoded by this gene is a proteoglycan that may function as a neural growth and differentiation factor. Several transcript variants encoding different isoforms have been found for this gene.
+ANXA2R - Predicted to enable signaling receptor activity.
